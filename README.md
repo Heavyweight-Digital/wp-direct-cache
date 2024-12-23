@@ -1,6 +1,6 @@
 # WP Direct Cache
 
-**Contributors:** [byronjacobs](https://byronjacobs.co.za/)
+**Author:** [byronjacobs](https://byronjacobs.co.za/)
   
 **Tags:** cache, performance, caching, speed, optimization
   
